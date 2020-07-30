@@ -1,0 +1,10 @@
+.banner .btn-apply {
+  background-color: white;
+  font-family: 'Open Sans', serif;
+  font-weight: lighter;
+  color:black;
+  position:relative;
+  bottom: 30px;
+  border-radius: 10px;
+  padding:5px;
+}

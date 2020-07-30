@@ -1,0 +1,48 @@
+.how-to-use {
+  margin-top: 20px;
+  height: 400px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.card-intro {
+  font-family: 'Recursive', sans-serif;
+  font-size: 50px;
+}
+
+.cards {
+/*  display: inline-block;*/
+  display: flex;
+  justify-content: space-evenly;
+  height: 325px;
+
+}
+.cards h2 {
+  font-size: 25px;
+  padding:10px;
+  font-family: 'Recursive', sans-serif;
+  font-style:bold;
+  color:#071756;
+}
+
+.card {
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  height: 280px;
+  width: 180px;
+  position: relative;
+  top: 45px;
+}
+
+.card img {
+  width:50px;
+  background-color: white;
+  position: relative;
+  top: 20px;
+}
+
+.card p {
+  font-family: 'Recursive', sans-serif;
+  font-size: 15px;
+  color:#071756;
+  padding:10px;
+}
